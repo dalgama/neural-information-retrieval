@@ -1,4 +1,4 @@
-# CSI4107 Assignment 2 - Neural Information Retrieval System
+# CSI4107 - Neural Information Retrieval System
 
 ## Reference
 
