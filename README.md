@@ -1,4 +1,4 @@
-# CSI4107 - Neural Information Retrieval System
+# Neural Information Retrieval System
 
 ## Reference
 
